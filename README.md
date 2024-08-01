@@ -1,6 +1,6 @@
-# Mandelbrot, Rust | Dec23
+# Mandelbrot | Dec23
 
-This project was done withing the course Programming Languages and Koncepts at Univeristy of Vienna.
-This was an intoruction to the Rust language; the Assignement was to write a program that creates a mandelbrot set based on the input parameters height, width and max number of iterations. 
-
-Achieved full points. :)
+- Implemented the algorithm to compute and display the Mandelbrot set.
+- Accepted input parameters for image size (width and height) and maximum iterations for flexibility.
+- Stored image data efficiently in a one-dimensional vector of pixels.
+- Achieved maximum points on the assignment, demonstrating proficiency in Rust and algorithm implementation
